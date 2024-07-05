@@ -1,0 +1,192 @@
+BACKLOG  PHASE 1
+--------------
+PowerBI
+	--(For Intragram Data) -  
+	Category wise followers
+	
+	Highest followers user wise
+	
+	Country wise most influensers in list
+	
+	Perticular country wise highest followed person(indivisual countr wise followed , for ex.India's 	allinfluensers list and then rank them who have highest folowers) 
+	
+	Who have highest followers in perticular their list 
+
+	Who have most of like in their list 
+	
+	Who have mpost of comments in ther list	
+
+	Month wise followers hike in perticular username or perticular group
+
+	Category wise like
+
+	Category wise Comments
+
+	Make a dashboard at last 
+
+	Top 5 , Top 3 , top 10 , Top 20
+
+
+
+	--(For YouTube  Data) -  
+
+	Channel wise highest subscribers
+	
+	Category wise highest subscribers
+
+	Category wise like
+	
+	Category wise comments 
+
+	Category wise Views
+
+	Who have highest likes
+
+	Who have highest subscribers
+
+	Who have highest subscribers in their own  category wise
+
+	Who have highest subscriber country wise
+
+	Who have highest subscribers in their own countryh wise
+
+	Month wise subscriber hike (for ex. in 6 month who have highest subscriber ,It is possible in only last 2 sheets because theyb have same channels data of 11 and 12 month)
+
+	Top 5 , Top 3 , top 10 , Top 20
+
+
+
+
+	--(For TickTock Data) 
+	
+	Name wise highest subscribers 
+	
+	Name wise highest views
+	
+	Name wise  highest like ,comment , shares
+
+	Month wise highest indivudual subscribers
+
+	Top 5 , Top 3 , top 10 , Top 20
+
+
+
+
+	
+
+
+	--(For Music Artist Data)	
+
+	Hypothesis ::   {Correlation  -  realtion between points on different platform	-
+
+	T-test : Comp[are points of diff platform
+                  
+	}
+	
+
+
+BACKLOG PHASE 2
+--------------
+Excel
+	Data checking and understanding
+	Data cleaning
+	Use power Query 
+	If need merge column then doing merging of different sheets 
+	
+	(*THIS MOST OF PART IS ALREADY DONE EXCEPT MERGING OF SHEETS*)
+
+
+
+
+
+BACKLOG PHASE 3
+--------------
+NUMPY / PANDAS 
+		
+	Create dataframe of xlsx sheets
+
+	Read dataframe
+
+	Describing of data
+
+	Change column name if needed with .apply(convert) method	
+
+	Concating of dataframes
+
+	Handle null values
+
+	Replace M(millions) into float values
+
+	Replace K(thousand) into float values 
+
+	How many category in dataset using Unique func
+
+	Remove duplicate values
+	
+	(Take analysis ideas on the sir's original colab)
+	
+
+BACKLOG PHASE 4
+--------------
+MATPLOTLIB / SEABORN	
+
+	Treding line category wise
+	
+	Treding line followers/subscriber wise
+	
+	Barchart , Histograms 
+
+	Outliner using boxplot 
+	
+	Scatterplot (ex.like and comments)
+
+	Heatmap (for correlation)
+
+
+	
+BACKLOG PHASE 5
+--------------
+PROBABILITY & STATS
+
+	Correlation  -  realtion between points on different platform	-
+
+	T-test : Compare points of diff platform
+                  
+	
+
+Refrence link:-
+	      https://chatgpt.com/share/f14afabb-fe3e-48a8-8832-7f5473085ae3
+
+
+	
+ 
+
+
+check individuals in each platfoems (who are common, top only)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
